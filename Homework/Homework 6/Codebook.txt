@@ -1,0 +1,7 @@
+Staff <S /> : The names of people who played non-acting roles in the production of the film. Includes any non-actors who appear in th film's credits. Example: "<S George Lucas /> does an alright job."
+
+Command [c] Any statement which commands the reader to do something in order to understand the review. Example: "Spend just five minutes with the film and you will understand how awful it is.
+
+Description [d] Any non-plot description of the film, including setting. If description is part of grounds for an evaluation, use [g] instead]. Example: "The story takes place in 5th century BC."
+
+Question [q] Any question statement, whether rhetorical or not. Essentially, any sentence which ends in a question mark. Example: "What's the big idea?"
